@@ -1,6 +1,6 @@
 import React from 'react';
 // import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-// import '../../node_modules/bootstrap/js/bootstrap.bundle.js';
+// import '../../node_modules/bootstrap/dist/js/bootstrap.bundle';
 
 const Header = () => {
 
