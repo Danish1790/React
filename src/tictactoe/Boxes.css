@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.boxes{
+    width:40rem;
+    height:30rem;
+    background:coral;
+}
+
+.boxes-row{
+    display:flex;
+    /* flex-direction: column; */
+    justify-content:space-around;
+    align-items:center;
+    text-align:center;
+    height:10.1rem;
+}
+
+.r1,.r2{
+    border-bottom: 2px solid red;
+}
+

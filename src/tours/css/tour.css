@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.card {
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 2px solid blue;
+}
+
+.card-img-top {
+  height: 15rem;
+}
+/*# sourceMappingURL=tour.css.map */

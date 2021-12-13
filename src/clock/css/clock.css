@@ -1,0 +1,44 @@
+
+.imgdiv{
+    width: 100%;
+    height:30rem;
+    /* background-color:khaki; */
+    /* margin:0 auto !important; */
+    padding:0 450px !important;
+    position:relative;
+}
+h1{
+    text-align: center;
+    color:rgb(252, 155, 0);
+}
+.img{
+    width:25rem;
+    height: 25rem;
+}
+.hour{
+    width: 5px;
+    height: 4.5rem;
+    background-color: blue;
+    position: absolute;
+    top: 130px;
+    left: 644px;
+    transform-origin: bottom;
+}
+.mins{
+    width: 5px;
+    height: 6rem;
+    background-color: rgb(136, 255, 0);
+    position: absolute;
+    top: 103px;
+    left: 644px;
+    transform-origin: bottom;
+}
+.secs{
+    width: 4px;
+    height: 8rem;
+    background-color: rgb(255, 51, 0);
+    position: absolute;
+    transform-origin: bottom;
+    top: 70px;
+    left: 644px
+}

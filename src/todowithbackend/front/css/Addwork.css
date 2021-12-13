@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.search-div,.myclas{
+    /* width: 40rem; */
+    width:50%;
+    margin:3rem auto;
+    border:2px solid rgb(151, 8, 87);
+    border-radius: 8px;
+    padding:50px;
+}

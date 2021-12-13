@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.header{
+    height:3rem;
+    background-color:antiquewhite;
+    align-items:center;
+    text-align:center;
+    color:rgb(224, 61, 89);
+}
+.card{
+    border:2px solid rgb(224, 61, 89);
+    border-radius:10px !important;
+}
+.card-img-top{
+    height:8rem;
+    width:10rem;
+    margin:0 auto;
+}
+
+.overflow-auto{
+    height:6rem;
+}
