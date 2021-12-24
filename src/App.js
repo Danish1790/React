@@ -20,6 +20,7 @@ import IcecreamContainer from './reduxwork/components/IcecreamContainer';
 import HooksCakeContainer from './reduxwork/components/HooksCakeContainer';
 import NewCakeContainer from './reduxwork/components/newCakeContainer';
 import ItemContainer from './reduxwork/components/ItemContainer';
+import UserContainer from './reduxwork/components/UserContainer';
 
 const App = () =>{
 
@@ -34,6 +35,8 @@ const App = () =>{
       <NewCakeContainer/>
       <ItemContainer cake/>
       <ItemContainer/>
+      <h2>this is user container </h2>
+      <UserContainer/>
     </Provider>
     </>
   )
